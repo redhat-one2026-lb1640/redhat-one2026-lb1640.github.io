@@ -1,2 +1,7 @@
-# redhat-one2026-lb1640.github.io
-The documentation site for the Red Hat One 2026 Lab 1460
+# Red Hat One 2026 -- Lab 1640
+
+## From the Drawing Board to the Battlespace: Operationalizing AI Models with Red Hat OpenShift AI
+
+In an era where adversaries are increasingly using AI to evade detection, security teams must leverage advanced platforms to deploy, manage, and secure their own AI capabilities at speed and scale. This session demonstrates how Red Hat OpenShift AI empowers teams to rapidly transition from experimental models in a Jupyter Workbench to production-grade deployments—while embedding security throughout the lifecycle. We will walk through a complete AI Threat Hunting use case, starting with data exploration and model development inside OpenShift AI Workbench, moving to model packaging and deployment as an API service, and finally applying Zero Trust principles to protect both the model and its data. Attendees will see how to integrate role-based access controls (RBAC), network isolation, and model observability for compliance and operational safety. Key takeaways include: How to use OpenShift AI Workbench for rapid iteration on security-focused models. Best practices for securing AI endpoints and pipelines against adversarial attacks. Applying OpenShift-native monitoring and governance to sustain trust in AI-powered threat hunting. Whether you are a data scientist, security engineer, or platform architect, you will leave with a clear blueprint for securely operationalizing AI models in mission-critical environments.
+
+## People that are working on this 
